@@ -27,7 +27,7 @@ page.
 
 ## Review
 * The URL of the app on Heroku: https://groupproject2bmasv.herokuapp.com/
-* The URL of the GitHub repository: https://github.com/btoney1988/project_2
+* The URL of the GitHub repository: https://github.com/Mohammed-19992/project_2
 
 ## Contributers:
 Brian Toney
