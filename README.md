@@ -22,6 +22,8 @@ page.
 10-Charts.js
 
 ## screenshot of the project:
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/67847324/100527898-fcc37e80-31a4-11eb-9c85-77f8430a2d0d.gif)
+
 
 ## Review
 * The URL of the app on Heroku: https://groupproject2bmasv.herokuapp.com/
